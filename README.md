@@ -3,7 +3,7 @@
 ### Description
 
 A small collection of various algorithms and data structures. The implemented data structures are: `Linked List`, `Queue`, `Heap`, `Directed Graph`
-, `Binary Search Tree` and `Hashtable`, while the list of implemented algorithms is:
+, `Binary Search Tree`, `Hashtable` and `Sorted String Table (SSTable)`, while the list of implemented algorithms is:
 
 * `Sorting algorithms` (Bubble, Merge and Quick)
 * `Search algorithms` (Binary and Interpolation)
